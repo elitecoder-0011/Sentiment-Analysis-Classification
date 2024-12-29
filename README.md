@@ -3,7 +3,7 @@
 This project contains two Jupyter notebooks showcasing implementations of popular deep learning architectures:
 
 
-1. **RNN.ipynb**
+1. **RNN.ipynb:**
    This notebook implements a Recurrent Neural Network (RNN) for Sentiment Analysis Classification.
    - **Methodology:**
      - Data preprocessing for sequence-based inputs.
@@ -11,7 +11,7 @@ This project contains two Jupyter notebooks showcasing implementations of popula
      - Training the RNN on the given dataset.
      - Evaluation of model performance and visualization of results.
 
-2. **Transformer.ipynb**
+2. **Transformer.ipynb:**
    This notebook implements a Transformer architecture for Sentiment Analysis Classification.
    - **Methodology:**
      - Implementation of the scaled dot-product attention mechanism.
